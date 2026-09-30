@@ -1,0 +1,30 @@
+# GeoPulse AI
+
+GeoPulse AI is a modern conflict intelligence dashboard focused on geopolitical risk and its possible effect on Indian financial markets.
+
+This project is a front-end starter that includes:
+
+- Dark-themed, interactive conflict map
+- Clickable country and hotspot regions
+- Conflict detail panel with risk, timeline, and market impact
+- Verified source cards for each region
+- Explainable, data-first design without investment advice
+
+## Tech Stack
+
+- React
+- Vite
+- CSS Modules / custom CSS
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+Then open the local Vite server in your browser.
+
+## Notes
+
+This initial version is a front-end prototype designed to visualize geopolitical risk and support future AI-powered analysis layers, event ingestion, and source verification workflows.
